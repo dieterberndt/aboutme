@@ -46,12 +46,12 @@ I enjoy work where architecture and implementation meet: designing secure, moder
 ---
 
 ## Tools & Technologies
-**Languages:** C#, .NET, C++, PowerShell, SQL, Bash  
-**Cloud:** Azure, hybrid/on-prem environments 
-**Security:** DevSecOps, threat modeling, identity & access, network security 
-**DevOps:** CI/CD, GitHub Actions, pipelines, automation 
-**Architecture:** distributed systems, modernization, secure design   
-**Other:** IoT/OT, electronics, automation systems, node-red 
+- **Languages:** C#, .NET, C++, PowerShell, SQL, Bash  
+- **Cloud:** Azure, hybrid/on-prem environments 
+- **Security:** DevSecOps, threat modeling, identity & access, network security 
+- **DevOps:** CI/CD, GitHub Actions, pipelines, automation 
+- **Architecture:** distributed systems, modernization, secure design   
+- **Other:** IoT/OT, electronics, automation systems, node-red 
 
 ---
 
